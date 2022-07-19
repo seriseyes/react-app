@@ -1,6 +1,9 @@
 {
   "name": "react-app",
   "version": "0.1.0",
+  "author": {
+    "name": "Bayarkhuu.Luv @MITPC LLC"
+  },
   "private": true,
   "dependencies": {
     "@reduxjs/toolkit": "^1.8.3",
